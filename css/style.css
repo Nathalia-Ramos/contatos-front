@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+img{
+    height: 120px;
+    padding: 10px;
+}
+.container{
+    width: 70%;
+}
+.cadastro{
+  height: 120px;
+
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  color: white;
+  background-color: #078ed0;
+}
+
+.form-group{
+    margin-top: 10px;
+    padding: 10px;
+}
+.form-check{
+    margin-top: 15px;
+    padding: 5px;
+    font-size: 1rem
+}
+hr{
+    margin-top: 25px;
+    font-weight: bold;
+    color: black;
+}
+h4{
+    font-size: 1rem;
+}
+thead{
+    background-color: #078ed0;
+    color: white;
+}
+table{
+    margin-top: 50px;
+}
+.editar, .excluir{
+    height: 50px;
+}
+footer{
+    margin-top: 150px;
+    height: 70px;
+    background-color: #078ed0;
+    color: white;
+}
+#img-alphacode{
+    height: 50px;
+}
